@@ -35,9 +35,5 @@ Aranacak tür: Bilim Kurgu → 🎬 Bulunan Filmler: 1. Inception (2010) - Chris
 🧠 Öğrenme Hedefleri:
 Nesne Yönelimli Programlama (OOP), Java koleksiyonları (ArrayList), Konsol tabanlı arayüz, CRUD işlemleri, Scanner sınıfı ile kullanıcıdan veri alma.
 
-🚀 Projeyi Çalıştırma:
-1- Bu projeyi bilgisayarına klonla: git clone https://github.com/kullaniciadi/FilmArsivi.git
-2- IntelliJ IDEA veya başka bir Java IDE’sinde aç.
-3- Main.java dosyasını çalıştır.
-4- Konsolda çıkan menüden işlemlerini seç.
+
 
